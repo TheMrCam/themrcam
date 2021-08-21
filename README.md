@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Computer Science and Mathematics double major
+- 🌱 I’m currently learning (CS-220) Principles of Computer Systems and (DS-315) Machine Learning
+- 🌱 Previous classes: Computer Science II, Operating Systems, Data Structures & Algorithms, Object Oriented Programming, (many) Math classes
+- 📫 How to reach me: cmwoodbury19@coe.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Practicing Buddhist
 <!--
 **TheMrCam/themrcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
