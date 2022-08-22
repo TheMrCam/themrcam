@@ -1,21 +1,20 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Computer Science and Mathematics double major
-- 🌱 Previous classes: Computer Science II, Operating Systems, Data Structures & Algorithms, Object Oriented Programming, Princples of Computer Systems, Machine Learning, Net-Centric Computing, Software Engineering, (many) Math classes
-- 📫 How to reach me: cmwoodbury19@coe.edu
+- 🔭 I’m currently working on: Landrush.io
+- 🌱 I’m currently learning: TypeScript, React (18), NodeJS & NPM package management
+- 🗄 Past projects: AWS/Terraform engine + CLI utility
+- 📫 How to reach me: cam@hobu.co
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Practicing Buddhist
-- 🎮 Favorite hobbies: Gaming (Elden Ring, Fortnite, etc)
-- 🏢 Current job: Junior Geospacial Software Engineer at Hobu, Co. && Advanced Repair Agent at Geek Squad (Best Buy, LLC)
+- ⚡ Fun fact: Vegetarian and practicing Buddhist
+- 🎮 Favorite hobbies: Gaming (Elden Ring, MultiVersus, Hot Wheels, etc.)
+- 🏢 Current job: Junior Geospacial Software Engineer at Hobu, Inc.
 
-I freakin' love the heck outta my wife
+```TypeScript
+export * from './respect'
+export * from './integrity'
+export * from './ethics'
+export * from './videogames'
+```
 
-    def main():
-        print("Hello, GitHub viewer!")
-        while True:
-            print("I love code! (and infinite loops)")
-            
-    if __name__ == "__main__":
-        main()
 <!--
 **TheMrCam/themrcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
