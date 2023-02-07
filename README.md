@@ -1,19 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Landrush.io
+- 🔭 I’m currently working on: [COPC Validator](https://validate.copc.io)
 - 🌱 I’m currently learning: TypeScript, React (18), NodeJS & NPM package management
 - 🗄 Past projects: AWS/Terraform engine + CLI utility
 - 📫 How to reach me: cam@hobu.co
+- 🐘 Mastodon: [@themrcam@fosstodon.org](https://fosstodon.org/@themrcam)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Vegetarian and practicing Buddhist
-- 🎮 Favorite hobbies: Gaming (Elden Ring, MultiVersus, Hot Wheels, etc.)
+- 🎮 Favorite hobbies: Gaming (Elden Ring, Assassin's Creed, Hot Wheels, etc.)
 - 🏢 Current job: Junior Geospacial Software Engineer at Hobu, Inc.
-
-```TypeScript
-export * from './respect'
-export * from './integrity'
-export * from './ethics'
-export * from './videogames'
-```
 
 <!--
 **TheMrCam/themrcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
