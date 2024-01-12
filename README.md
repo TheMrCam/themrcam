@@ -1,12 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: [COPC Validator](https://validate.copc.io)
-- 🌱 I’m currently learning: TypeScript, React (18), NodeJS & NPM package management
-- 🗄 Past projects: AWS/Terraform engine + CLI utility
+- 🔭 I’m currently working on: [Hobu](https://github.com/hobuinc) development
+- 🌱 I’m currently learning/using: TypeScript, React, NodeJS & NPM package management
+- 🔓 Open Source projects: [COPC Validator](https://validate.copc.io)
 - 📫 How to reach me: cam@hobu.co
 - 🐘 Mastodon: [@themrcam@fosstodon.org](https://fosstodon.org/@themrcam)
+- 🌐 Personal site: [cameronwoodbury.com](https://cameronwoodbury.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Vegetarian and practicing Buddhist
-- 🎮 Favorite hobbies: Gaming (Elden Ring, Assassin's Creed, Hot Wheels, etc.)
+- 🎮 Favorite hobbies: Gaming and camping
 - 🏢 Current job: Junior Geospacial Software Engineer at Hobu, Inc.
 
 <!--
